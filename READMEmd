@@ -1,0 +1,27 @@
+
+# Perfect Store Analysis
+
+Análise de dados de uma rede de restaurantes com 50 filiais no Brasil, utilizando Python para avaliar indicadores de desempenho operacional.
+
+## Objetivo
+
+Calcular o Perfect Store Score (PSS), identificar filiais com melhor e pior desempenho e investigar a relação entre execução operacional e faturamento.
+
+## Tecnologias
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Estrutura do projeto
+
+- `data/`: base de dados
+- `notebooks/`: análises exploratórias
+- `src/`: scripts Python reutilizáveis
+
+## Status
+
+Em desenvolvimento.
