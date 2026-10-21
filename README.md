@@ -202,7 +202,6 @@ perfect-store-analysis/
 │   └── pss_faturamento_anual.png
 ├── notebooks/
 │   └── perfect_store_analysis.ipynb
-├── src/
 ├── .gitignore
 └── README.md
 ```
